@@ -21,7 +21,6 @@
 .logo {
   border: 1px solid red;
   position: absolute;
-  background-size: cover;
   z-index: 2;
 }
 
@@ -29,15 +28,14 @@
   top: 30px;
   left: 64px;
   width: 183px;
-  height: 32px;
-  background-image: url(/images/logo_place_header.svg);    
+  height: 32px;    
 }
 
-.logo_place_footer {
+**.logo_place_footer {
   background-image: url(/images/logo_place_footer.svg);
   width: 183px;
   height: 35px;
-}
+}**
 
 .header__title {
   border: 1px solid red;
