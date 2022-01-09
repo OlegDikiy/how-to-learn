@@ -34,7 +34,7 @@
 .header__title {
   margin: auto 64px;
   width: 730px;
-  font-size: 102px;;
+  font-size: 102px;
   line-height: 96px;
   font-weight: 700;
   z-index: 2;
@@ -157,7 +157,7 @@
 
 .table_theme_dark {
   color: #fff;
-  margin-bottom: 90px
+  margin-bottom: 90px;
 }
 
 .table__cell {
