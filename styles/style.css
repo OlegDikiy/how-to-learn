@@ -31,7 +31,7 @@
 }
 
 .header__title {
-  margin: auto 0 auto 64px ;
+  margin: auto 0 auto 64px;
   width: 730px;
   font-size: 102px;
   line-height: 96px;
@@ -229,7 +229,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  background: #1f1f1f url(../images/kaufman-triangle.svg) no-repeat top right -210px / 877px 877px ;
+  background: #1f1f1f url(../images/kaufman-triangle.svg) no-repeat top right -210px / 877px 877px;
   overflow: hidden;
 }
 
