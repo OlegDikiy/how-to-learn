@@ -1,0 +1,3 @@
+.header__squere-pic_rotation {
+  animation: rotation 20s linear infinite backwards running;
+}
