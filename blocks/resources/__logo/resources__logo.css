@@ -1,0 +1,10 @@
+.resources__logo {
+  cursor: pointer;
+  list-style: none;
+  width: 270px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
